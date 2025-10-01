@@ -76,8 +76,9 @@ Follow the prompts to input grid size, obstacles, starting position, direction, 
 
 
 6. **Output**
-   - `Rover is at (1, 3) facing North.`
-   - `Rover encountered obstacles at:(2, 2)`
+
+   - Rover is at (1, 3) facing North.
+   - Rover encountered obstacles at: (2, 2)
 
 
 ## Code Structure
